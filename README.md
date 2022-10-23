@@ -18,17 +18,25 @@ subscription under which your SWA lives).
 4. Edit the variables inside the pipeline files to fit your setup.
 5. Done
 
-Your pipelines in Azure DevOps:
-![docs/azure-devops-pipeliens.png](docs/azure-devops-pipeliens.png)
+<details>
+<summary>Your pipelines in Azure DevOps</summary>
+<img src="https://github.com/feedm3/learning-azure-swa-devops/raw/main/docs/azure-devops-pipeliens.png"/>
+</details>
 
-The variables each pipeline needs:
-![docs/azure-devops-pipeline-variables.png](docs/azure-devops-pipeline-variables.png)
+<details>
+<summary>The variables each pipeline needs</summary>
+<img src="https://github.com/feedm3/learning-azure-swa-devops/raw/main/docs/azure-devops-pipeline-variables.png"/>
+</details>
 
-The deployments you will see per PR:
-![docs/azure-swa-deployments.png](docs/azure-swa-deployments.png)
+<details>
+<summary>The deployments you will see per PR</summary>
+<img src="https://github.com/feedm3/learning-azure-swa-devops/raw/main/docs/azure-swa-deployments.png"/>
+</details>
 
-Every deployment URL will be commented in the associated PR:
-![docs/azure-devops-comment.png](docs/azure-devops-comment.png)
+<details>
+<summary>Every deployment URL will be commented in the associated PR</summary>
+<img src="https://github.com/feedm3/learning-azure-swa-devops/raw/main/docs/azure-devops-comment.png"/>
+</details>
 
 ## How it works
 

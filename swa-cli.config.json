@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "react-app": {
+      "appLocation": ".",
+      "outputLocation": "dist",
+      "appDevserverUrl": "http://localhost:3000"
+    }
+  }
+}

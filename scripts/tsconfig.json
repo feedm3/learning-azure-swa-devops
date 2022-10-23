@@ -1,0 +1,19 @@
+{
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true,
+    "esm": true,
+  },
+  "compilerOptions": {
+    "lib": [
+      "ES2021"
+    ],
+    "module": "ES2022",
+    "target": "es2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  }
+}

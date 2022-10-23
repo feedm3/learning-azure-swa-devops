@@ -7,6 +7,8 @@ experience.
 - The link to the environment should be posted as a comment in the pull request
 - After merging, the deployment should be removed to save resources and money
 
+> This repo is intended to be used in Azure DevOps, not on GitHub!
+
 ## Setup
 
 1. Copy the [.azure](.azure) and [scripts](scripts) folder to your repo
